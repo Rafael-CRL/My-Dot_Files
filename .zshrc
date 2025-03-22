@@ -121,4 +121,15 @@ zinit light zsh-users/zsh-completions
 
 eval "$(starship init zsh)"
 
+# 2) ═══════════════════ PATHS ═══════════════════
+
 export PATH=$PATH:/home/rafael/.spicetify
+
+# 2) ═══════════════════ ALIASES ═══════════════════
+
+alias neofetchconf='nvim ~/.config/neofetch/config.conf'
+alias kittyconf='nvim ~/.config/kitty/kitty.conf'
+alias ls='exa --icons'
+alias zshrcconf='nvim ~/.zshrc'
+alias alacrittyconf='nvim ~/.config/alacritty/alacritty.toml'
+alias starshipconf='nvim ~/.config/starship.toml'
