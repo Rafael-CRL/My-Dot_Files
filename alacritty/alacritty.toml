@@ -10,7 +10,7 @@ opacity = 0.9
 
 blur = true# Colors (Ayu Dark)
 [font]
-normal ={family = "JetBrainsMonoNerdFont", style = "Bold"}
+normal ={family = "JetBrainsMonoNerdFont", style = "Regular"}
 size = 13.0
 
 [colors.primary]
