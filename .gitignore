@@ -1,8 +1,12 @@
 /*
 !/alacritty/
 !/kitty/
+!/mpv/
 !/neofetch/
 !/nvim/
 !/rofi/
 !/.zshrc
 !/starship.toml
+
+# mpvacious é um repo git próprio (atualizado via git pull dentro dele), não versionar aqui
+/mpv/scripts/mpvacious/
